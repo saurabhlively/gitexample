@@ -1,368 +1,369 @@
-"41",1535,"M","No","0","Graduate","No",3254,0,50,360,1,"Urban"
-"42",1536,"M","Yes","3+","Graduate","No",39999,0,600,180,0,"Semiurban"
-"43",1543,"M","Yes","1","Graduate","No",9538,0,187,360,1,"Urban"
-"44",1552,"M","Yes","0","Graduate","No",4583,5625,255,360,1,"Semiurban"
-"45",1560,"M","Yes","0","Not Graduate","No",1863,1041,98,360,1,"Semiurban"
-"46",1562,"M","Yes","0","Graduate","No",7933,0,275,360,1,"Urban"
-"47",1565,"M","Yes","1","Graduate","No",3089,1280,121,360,0,"Semiurban"
-"48",1570,"M","Yes","2","Graduate","No",4167,1447,158,360,1,"Rural"
-"49",1572,"M","Yes","0","Graduate","No",9323,0,75,180,1,"Urban"
-"50",1574,"M","Yes","0","Graduate","No",3707,3166,182,NA,1,"Rural"
-"51",1577,"F","Yes","0","Graduate","No",4583,0,112,360,1,"Rural"
-"52",1578,"M","Yes","0","Graduate","No",2439,3333,129,360,1,"Rural"
-"53",1579,"M","No","0","Graduate","No",2237,0,63,480,0,"Semiurban"
-"54",1580,"M","Yes","2","Graduate","No",8000,0,200,360,1,"Semiurban"
-"55",1586,"M","Yes","3+","Not Graduate","No",3522,0,81,180,1,"Rural"
-"56",1594,"M","Yes","0","Graduate","No",5708,5625,187,360,1,"Semiurban"
-"57",1603,"M","Yes","0","Not Graduate","Yes",4344,736,87,360,1,"Semiurban"
-"58",1606,"M","Yes","0","Graduate","No",3497,1964,116,360,1,"Rural"
-"59",1608,"M","Yes","2","Graduate","No",2045,1619,101,360,1,"Rural"
-"60",1610,"M","Yes","3+","Graduate","No",5516,11300,495,360,0,"Semiurban"
-"61",1616,"M","Yes","1","Graduate","No",3750,0,116,360,1,"Semiurban"
-"62",1630,"M","No","0","Not Graduate","No",2333,1451,102,480,0,"Urban"
-"63",1633,"M","Yes","1","Graduate","No",6400,7250,180,360,0,"Urban"
-"64",1636,"M","Yes","0","Graduate","No",4600,0,73,180,1,"Semiurban"
-"65",1637,"M","Yes","1","Graduate","No",33846,0,260,360,1,"Semiurban"
-"66",1639,"F","Yes","0","Graduate","No",3625,0,108,360,1,"Semiurban"
-"67",1640,"M","Yes","0","Graduate","Yes",39147,4750,120,360,1,"Semiurban"
-"68",1641,"M","Yes","1","Graduate","Yes",2178,0,66,300,0,"Rural"
-"69",1647,"M","Yes","0","Graduate","No",9328,0,188,180,1,"Rural"
-"70",1653,"M","No","0","Not Graduate","No",4885,0,48,360,1,"Rural"
-"71",1656,"M","No","0","Graduate","No",12000,0,164,360,1,"Semiurban"
-"72",1657,"M","Yes","0","Not Graduate","No",6033,0,160,360,1,"Urban"
-"73",1658,"M","No","0","Graduate","No",3858,0,76,360,1,"Semiurban"
-"74",1664,"M","No","0","Graduate","No",4191,0,120,360,1,"Rural"
-"75",1665,"M","Yes","1","Graduate","No",3125,2583,170,360,1,"Semiurban"
-"76",1666,"M","No","0","Graduate","No",8333,3750,187,360,1,"Rural"
-"77",1669,"F","No","0","Not Graduate","No",1907,2365,120,NA,1,"Urban"
-"78",1673,"M","No","0","Graduate","Yes",11000,0,83,360,1,"Urban"
-"79",1674,"M","Yes","1","Not Graduate","No",2600,2500,90,360,1,"Semiurban"
-"80",1677,"M","No","2","Graduate","No",4923,0,166,360,0,"Semiurban"
-"81",1688,"M","Yes","1","Not Graduate","No",3500,1083,135,360,1,"Urban"
-"82",1691,"M","Yes","2","Not Graduate","No",3917,0,124,360,1,"Semiurban"
-"83",1692,"F","No","0","Not Graduate","No",4408,0,120,360,1,"Semiurban"
-"84",1693,"F","No","0","Graduate","No",3244,0,80,360,1,"Urban"
-"85",1698,"M","No","0","Not Graduate","No",3975,2531,55,360,1,"Rural"
-"86",1699,"M","No","0","Graduate","No",2479,0,59,360,1,"Urban"
-"87",1702,"M","No","0","Graduate","No",3418,0,127,360,1,"Semiurban"
-"88",1708,"F","No","0","Graduate","No",10000,0,214,360,1,"Semiurban"
-"89",1711,"M","Yes","3+","Graduate","No",3430,1250,128,360,0,"Semiurban"
-"90",1713,"M","Yes","1","Graduate","Yes",7787,0,240,360,1,"Urban"
-"91",1715,"M","Yes","3+","Not Graduate","Yes",5703,0,130,360,1,"Rural"
-"92",1716,"M","Yes","0","Graduate","No",3173,3021,137,360,1,"Urban"
-"93",1720,"M","Yes","3+","Not Graduate","No",3850,983,100,360,1,"Semiurban"
-"94",1722,"M","Yes","0","Graduate","No",150,1800,135,360,1,"Rural"
-"95",1726,"M","Yes","0","Graduate","No",3727,1775,131,360,1,"Semiurban"
-"96",1736,"M","Yes","0","Graduate","No",2221,0,60,360,0,"Urban"
-"97",1743,"M","Yes","2","Graduate","No",4009,1717,116,360,1,"Semiurban"
-"98",1744,"M","No","0","Graduate","No",2971,2791,144,360,1,"Semiurban"
-"99",1749,"M","Yes","0","Graduate","No",7578,1010,175,NA,1,"Semiurban"
-"100",1750,"M","Yes","0","Graduate","No",6250,0,128,360,1,"Semiurban"
-"101",1751,"M","Yes","0","Graduate","No",3250,0,170,360,1,"Rural"
-"102",1758,"M","Yes","2","Graduate","No",6250,1695,210,360,1,"Semiurban"
-"103",1761,"M","No","0","Graduate","Yes",6400,0,200,360,1,"Rural"
-"104",1765,"M","Yes","1","Graduate","No",2491,2054,104,360,1,"Semiurban"
-"105",1770,"M","No","0","Not Graduate","No",3189,2598,120,NA,1,"Rural"
-"106",1776,"F","No","0","Graduate","No",8333,0,280,360,1,"Semiurban"
-"107",1778,"M","Yes","1","Graduate","No",3155,1779,140,360,1,"Semiurban"
-"108",1784,"M","Yes","1","Graduate","No",5500,1260,170,360,1,"Rural"
-"109",1790,"F","No","1","Graduate","No",3812,0,112,360,1,"Rural"
-"110",1792,"M","Yes","1","Graduate","No",3315,0,96,360,1,"Semiurban"
-"111",1798,"M","Yes","2","Graduate","No",5819,5000,120,360,1,"Rural"
-"112",1800,"M","Yes","1","Not Graduate","No",2510,1983,140,180,1,"Urban"
-"113",1806,"M","No","0","Graduate","No",2965,5701,155,60,1,"Urban"
-"114",1807,"M","Yes","2","Graduate","Yes",6250,1300,108,360,1,"Rural"
-"115",1811,"M","Yes","0","Not Graduate","No",3406,4417,123,360,1,"Semiurban"
-"116",1813,"M","No","0","Graduate","Yes",6050,4333,120,180,1,"Urban"
-"117",1814,"M","Yes","2","Graduate","No",9703,0,112,360,1,"Urban"
-"118",1819,"M","Yes","1","Not Graduate","No",6608,0,137,180,1,"Urban"
-"119",1824,"M","Yes","1","Graduate","No",2882,1843,123,480,1,"Semiurban"
-"120",1825,"M","Yes","0","Graduate","No",1809,1868,90,360,1,"Urban"
-"121",1835,"M","Yes","0","Not Graduate","No",1668,3890,201,360,0,"Semiurban"
-"122",1836,"F","No","2","Graduate","No",3427,0,138,360,1,"Urban"
-"123",1841,"M","No","0","Not Graduate","Yes",2583,2167,104,360,1,"Rural"
-"124",1843,"M","Yes","1","Not Graduate","No",2661,7101,279,180,1,"Semiurban"
-"125",1844,"M","No","0","Graduate","Yes",16250,0,192,360,0,"Urban"
-"126",1846,"F","No","3+","Graduate","No",3083,0,255,360,1,"Rural"
-"127",1849,"M","No","0","Not Graduate","No",6045,0,115,360,0,"Rural"
-"128",1854,"M","Yes","3+","Graduate","No",5250,0,94,360,1,"Urban"
-"129",1859,"M","Yes","0","Graduate","No",14683,2100,304,360,1,"Rural"
-"130",1868,"M","No","0","Graduate","No",2060,2209,134,360,1,"Semiurban"
-"131",1870,"F","No","1","Graduate","No",3481,0,155,36,1,"Semiurban"
-"132",1871,"F","No","0","Graduate","No",7200,0,120,360,1,"Rural"
-"133",1872,"M","No","0","Graduate","Yes",5166,0,128,360,1,"Semiurban"
-"134",1875,"M","No","0","Graduate","No",4095,3447,151,360,1,"Rural"
-"135",1877,"M","Yes","2","Graduate","No",4708,1387,150,360,1,"Semiurban"
-"136",1882,"M","Yes","3+","Graduate","No",4333,1811,160,360,0,"Urban"
-"137",1884,"F","No","1","Graduate","No",2876,1560,90,360,1,"Urban"
-"138",1888,"F","No","0","Graduate","No",3237,0,30,360,1,"Urban"
-"139",1891,"M","Yes","0","Graduate","No",11146,0,136,360,1,"Urban"
-"140",1892,"M","No","0","Graduate","No",2833,1857,126,360,1,"Rural"
-"141",1894,"M","Yes","0","Graduate","No",2620,2223,150,360,1,"Semiurban"
-"142",1896,"M","Yes","2","Graduate","No",3900,0,90,360,1,"Semiurban"
-"143",1900,"M","Yes","1","Graduate","No",2750,1842,115,360,1,"Semiurban"
-"144",1903,"M","Yes","0","Graduate","No",3993,3274,207,360,1,"Semiurban"
-"145",1904,"M","Yes","0","Graduate","No",3103,1300,80,360,1,"Urban"
-"146",1907,"M","Yes","0","Graduate","No",14583,0,436,360,1,"Semiurban"
-"147",1910,"M","No","1","Not Graduate","Yes",4053,2426,158,360,0,"Urban"
-"148",1914,"M","Yes","0","Graduate","No",3927,800,112,360,1,"Semiurban"
-"149",1915,"M","Yes","2","Graduate","No",2301,985.7999878,78,180,1,"Urban"
-"150",1917,"F","No","0","Graduate","No",1811,1666,54,360,1,"Urban"
-"151",1924,"M","No","0","Graduate","No",3158,3053,89,360,1,"Rural"
-"152",1925,"F","No","0","Graduate","Yes",2600,1717,99,300,1,"Semiurban"
-"153",1926,"M","Yes","0","Graduate","No",3704,2000,120,360,1,"Rural"
-"154",1931,"F","No","0","Graduate","No",4124,0,115,360,1,"Semiurban"
-"155",1935,"M","No","0","Graduate","No",9508,0,187,360,1,"Rural"
-"156",1936,"M","Yes","0","Graduate","No",3075,2416,139,360,1,"Rural"
-"157",1938,"M","Yes","2","Graduate","No",4400,0,127,360,0,"Semiurban"
-"158",1940,"M","Yes","2","Graduate","No",3153,1560,134,360,1,"Urban"
-"159",1947,"M","Yes","0","Graduate","No",2383,3334,172,360,1,"Semiurban"
-"160",1953,"M","Yes","1","Graduate","No",6875,0,200,360,1,"Semiurban"
-"161",1954,"F","Yes","1","Graduate","No",4666,0,135,360,1,"Urban"
-"162",1955,"F","No","0","Graduate","No",5000,2541,151,480,1,"Rural"
-"163",1963,"M","Yes","1","Graduate","No",2014,2925,113,360,1,"Urban"
-"164",1964,"M","Yes","0","Not Graduate","No",1800,2934,93,360,0,"Urban"
-"165",1974,"F","No","0","Graduate","No",5000,0,132,360,1,"Rural"
-"166",1977,"M","Yes","1","Graduate","No",1625,1803,96,360,1,"Urban"
-"167",1978,"M","No","0","Graduate","No",4000,2500,140,360,1,"Rural"
-"168",1993,"F","No","0","Graduate","No",3762,1666,135,360,1,"Rural"
-"169",1994,"F","No","0","Graduate","No",2400,1863,104,360,0,"Urban"
-"170",1996,"M","No","0","Graduate","No",20233,0,480,360,1,"Rural"
-"171",2002,"F","No","0","Graduate","No",2917,0,84,360,1,"Semiurban"
-"172",2004,"M","No","0","Not Graduate","No",2927,2405,111,360,1,"Semiurban"
-"173",2006,"F","No","0","Graduate","No",2507,0,56,360,1,"Rural"
-"174",2031,"M","Yes","1","Not Graduate","No",3399,1640,111,180,1,"Urban"
-"175",2035,"M","Yes","2","Graduate","No",3717,0,120,360,1,"Semiurban"
-"176",2050,"M","Yes","1","Graduate","Yes",10000,0,155,360,1,"Rural"
-"177",2051,"M","Yes","0","Graduate","No",2400,2167,115,360,1,"Semiurban"
-"178",2053,"M","Yes","3+","Graduate","No",4342,189,124,360,1,"Semiurban"
-"179",2065,"M","Yes","3+","Graduate","No",15000,0,300,360,1,"Rural"
-"180",2067,"M","Yes","1","Graduate","Yes",8666,4983,376,360,0,"Rural"
-"181",2068,"M","No","0","Graduate","No",4917,0,130,360,0,"Rural"
-"182",2082,"M","Yes","0","Graduate","Yes",5818,2160,184,360,1,"Semiurban"
-"183",2086,"F","Yes","0","Graduate","No",4333,2451,110,360,1,"Urban"
-"184",2087,"F","No","0","Graduate","No",2500,0,67,360,1,"Urban"
-"185",2097,"M","No","1","Graduate","No",4384,1793,117,360,1,"Urban"
-"186",2098,"M","No","0","Graduate","No",2935,0,98,360,1,"Semiurban"
-"187",2112,"M","Yes","2","Graduate","Yes",2500,4600,176,360,1,"Rural"
-"188",2114,"F","No","0","Graduate","No",4160,0,71,360,1,"Semiurban"
-"189",2115,"M","Yes","3+","Not Graduate","No",2647,1587,173,360,1,"Rural"
-"190",2116,"F","No","0","Graduate","No",2378,0,46,360,1,"Rural"
-"191",2119,"M","Yes","1","Not Graduate","No",4554,1229,158,360,1,"Urban"
-"192",2126,"M","Yes","3+","Not Graduate","No",3173,0,74,360,1,"Semiurban"
-"193",2129,"M","Yes","0","Graduate","No",2499,2458,160,360,1,"Semiurban"
-"194",2131,"M","Yes","2","Not Graduate","No",3083,2168,126,360,1,"Urban"
-"195",2138,"M","Yes","0","Graduate","No",2625,6250,187,360,1,"Rural"
-"196",2139,"M","Yes","0","Graduate","No",9083,0,228,360,1,"Semiurban"
-"197",2140,"M","No","0","Graduate","No",8750,4167,308,360,1,"Rural"
-"198",2141,"M","Yes","3+","Graduate","No",2666,2083,95,360,1,"Rural"
-"199",2142,"F","Yes","0","Graduate","Yes",5500,0,105,360,0,"Rural"
-"200",2143,"F","Yes","0","Graduate","No",2423,505,130,360,1,"Semiurban"
-"201",2149,"M","Yes","2","Graduate","No",8333,3167,165,360,1,"Rural"
-"202",2151,"M","Yes","1","Graduate","No",3875,0,67,360,1,"Urban"
-"203",2158,"M","Yes","0","Not Graduate","No",3000,1666,100,480,0,"Urban"
-"204",2160,"M","Yes","3+","Graduate","No",5167,3167,200,360,1,"Semiurban"
-"205",2161,"F","No","1","Graduate","No",4723,0,81,360,1,"Semiurban"
-"206",2170,"M","Yes","2","Graduate","No",5000,3667,236,360,1,"Semiurban"
-"207",2175,"M","Yes","0","Graduate","No",4750,2333,130,360,1,"Urban"
-"208",2180,"M","No","0","Graduate","Yes",6822,0,141,360,1,"Rural"
-"209",2181,"M","No","0","Not Graduate","No",6216,0,133,360,1,"Rural"
-"210",2187,"M","No","0","Graduate","No",2500,0,96,480,1,"Semiurban"
-"211",2188,"M","No","0","Graduate","No",5124,0,124,NA,0,"Rural"
-"212",2190,"M","Yes","1","Graduate","No",6325,0,175,360,1,"Semiurban"
-"213",2191,"M","Yes","0","Graduate","No",19730,5266,570,360,1,"Rural"
-"214",2194,"F","No","0","Graduate","Yes",15759,0,55,360,1,"Semiurban"
-"215",2197,"M","Yes","2","Graduate","No",5185,0,155,360,1,"Semiurban"
-"216",2201,"M","Yes","2","Graduate","Yes",9323,7873,380,300,1,"Rural"
-"217",2205,"M","No","1","Graduate","No",3062,1987,111,180,0,"Urban"
-"218",2211,"M","Yes","0","Graduate","No",4817,923,120,180,1,"Urban"
-"219",2219,"M","Yes","3+","Graduate","No",8750,4996,130,360,1,"Rural"
-"220",2224,"M","No","0","Graduate","No",3069,0,71,480,1,"Urban"
-"221",2225,"M","Yes","2","Graduate","No",5391,0,130,360,1,"Urban"
-"222",2229,"M","No","0","Graduate","No",5941,4232,296,360,1,"Semiurban"
-"223",2231,"F","No","0","Graduate","No",6000,0,156,360,1,"Urban"
-"224",2234,"M","No","0","Graduate","Yes",7167,0,128,360,1,"Urban"
-"225",2236,"M","Yes","2","Graduate","No",4566,0,100,360,1,"Urban"
-"226",2239,"M","No","0","Not Graduate","No",2346,1600,132,360,1,"Semiurban"
-"227",2244,"M","Yes","0","Graduate","No",2333,2417,136,360,1,"Urban"
-"228",2250,"M","Yes","0","Graduate","No",5488,0,125,360,1,"Rural"
-"229",2255,"M","No","3+","Graduate","No",9167,0,185,360,1,"Rural"
-"230",2262,"M","Yes","3+","Graduate","No",9504,0,275,360,1,"Rural"
-"231",2265,"M","Yes","2","Not Graduate","No",1993,1625,113,180,1,"Semiurban"
-"232",2266,"M","Yes","2","Graduate","No",3100,1400,113,360,1,"Urban"
-"233",2277,"F","No","0","Graduate","No",3180,0,71,360,0,"Urban"
-"234",2281,"M","Yes","0","Graduate","No",3033,1459,95,360,1,"Urban"
-"235",2284,"M","No","0","Not Graduate","No",3902,1666,109,360,1,"Rural"
-"236",2287,"F","No","0","Graduate","No",1500,1800,103,360,0,"Semiurban"
-"237",2288,"M","Yes","2","Not Graduate","No",2889,0,45,180,0,"Urban"
-"238",2296,"M","No","0","Not Graduate","No",2755,0,65,300,1,"Rural"
-"239",2297,"M","No","0","Graduate","No",2500,20000,103,360,1,"Semiurban"
-"240",2300,"F","No","0","Not Graduate","No",1963,0,53,360,1,"Semiurban"
-"241",2301,"F","No","0","Graduate","Yes",7441,0,194,360,1,"Rural"
-"242",2305,"F","No","0","Graduate","No",4547,0,115,360,1,"Semiurban"
-"243",2308,"M","Yes","0","Not Graduate","No",2167,2400,115,360,1,"Urban"
-"244",2314,"F","No","0","Not Graduate","No",2213,0,66,360,1,"Rural"
-"245",2315,"M","Yes","1","Graduate","No",8300,0,152,300,0,"Semiurban"
-"246",2317,"M","Yes","3+","Graduate","No",81000,0,360,360,0,"Rural"
-"247",2318,"F","No","1","Not Graduate","Yes",3867,0,62,360,1,"Semiurban"
-"248",2328,"M","Yes","0","Not Graduate","No",6096,0,218,360,0,"Rural"
-"249",2332,"M","Yes","0","Not Graduate","No",2253,2033,110,360,1,"Rural"
-"250",2335,"F","Yes","0","Not Graduate","No",2149,3237,178,360,0,"Semiurban"
-"251",2337,"F","No","0","Graduate","No",2995,0,60,360,1,"Urban"
-"252",2341,"F","No","1","Graduate","No",2600,0,160,360,1,"Urban"
-"253",2342,"M","Yes","2","Graduate","Yes",1600,20000,239,360,1,"Urban"
-"254",2345,"M","Yes","0","Graduate","No",1025,2773,112,360,1,"Rural"
-"255",2347,"M","Yes","0","Graduate","No",3246,1417,138,360,1,"Semiurban"
-"256",2348,"M","Yes","0","Graduate","No",5829,0,138,360,1,"Rural"
-"257",2357,"F","No","0","Not Graduate","No",2720,0,80,NA,0,"Urban"
-"258",2361,"M","Yes","0","Graduate","No",1820,1719,100,360,1,"Urban"
-"259",2362,"M","Yes","1","Graduate","No",7250,1667,110,NA,0,"Urban"
-"260",2364,"M","Yes","0","Graduate","No",14880,0,96,360,1,"Semiurban"
-"261",2366,"M","Yes","0","Graduate","No",2666,4300,121,360,1,"Rural"
-"262",2367,"F","No","1","Not Graduate","No",4606,0,81,360,1,"Rural"
-"263",2368,"M","Yes","2","Graduate","No",5935,0,133,360,1,"Semiurban"
-"264",2369,"M","Yes","0","Graduate","No",2920,16.12000084,87,360,1,"Rural"
-"265",2370,"M","No","0","Not Graduate","No",2717,0,60,180,1,"Urban"
-"266",2377,"F","No","1","Graduate","Yes",8624,0,150,360,1,"Semiurban"
-"267",2379,"M","No","0","Graduate","No",6500,0,105,360,0,"Rural"
-"268",2387,"M","Yes","0","Graduate","No",2425,2340,143,360,1,"Semiurban"
-"269",2390,"M","No","0","Graduate","No",3750,0,100,360,1,"Urban"
-"270",2398,"M","No","0","Graduate","No",1926,1851,50,360,1,"Semiurban"
-"271",2403,"M","No","0","Graduate","Yes",10416,0,187,360,0,"Urban"
-"272",2407,"F","Yes","0","Not Graduate","Yes",7142,0,138,360,1,"Rural"
-"273",2408,"M","No","0","Graduate","No",3660,5064,187,360,1,"Semiurban"
-"274",2409,"M","Yes","0","Graduate","No",7901,1833,180,360,1,"Rural"
-"275",2418,"M","No","3+","Not Graduate","No",4707,1993,148,360,1,"Semiurban"
-"276",2422,"M","No","1","Graduate","No",37719,0,152,360,1,"Semiurban"
-"277",2429,"M","Yes","1","Graduate","Yes",3466,1210,130,360,1,"Rural"
-"278",2434,"M","Yes","2","Not Graduate","No",4652,0,110,360,1,"Rural"
-"279",2443,"M","Yes","2","Graduate","No",3340,1710,150,360,0,"Rural"
-"280",2446,"M","Yes","2","Not Graduate","No",2309,1255,125,360,0,"Rural"
-"281",2448,"M","Yes","0","Graduate","No",3948,1733,149,360,0,"Rural"
-"282",2449,"M","Yes","0","Graduate","No",2483,2466,90,180,0,"Rural"
-"283",2453,"M","No","0","Graduate","Yes",7085,0,84,360,1,"Semiurban"
-"284",2455,"M","Yes","2","Graduate","No",3859,0,96,360,1,"Semiurban"
-"285",2459,"M","Yes","0","Graduate","No",4301,0,118,360,1,"Urban"
-"286",2467,"M","Yes","0","Graduate","No",3708,2569,173,360,1,"Urban"
-"287",2472,"M","No","2","Graduate","No",4354,0,136,360,1,"Rural"
-"288",2473,"M","Yes","0","Graduate","No",8334,0,160,360,1,"Semiurban"
-"289",2484,"M","Yes","3+","Graduate","No",7740,0,128,180,1,"Urban"
-"290",2487,"M","Yes","0","Graduate","No",3015,2188,153,360,1,"Rural"
-"291",2493,"M","No","0","Graduate","No",4166,0,98,360,0,"Semiurban"
-"292",2494,"M","No","0","Graduate","No",6000,0,140,360,1,"Rural"
-"293",2500,"M","Yes","3+","Not Graduate","No",2947,1664,70,180,0,"Urban"
-"294",2505,"M","Yes","0","Graduate","No",4333,2451,110,360,1,"Urban"
-"295",2515,"M","Yes","1","Graduate","Yes",3450,2079,162,360,1,"Semiurban"
-"296",2517,"M","Yes","1","Not Graduate","No",2653,1500,113,180,0,"Rural"
-"297",2519,"M","Yes","3+","Graduate","No",4691,0,100,360,1,"Semiurban"
-"298",2524,"M","No","2","Graduate","No",5532,4648,162,360,1,"Rural"
-"299",2527,"M","Yes","2","Graduate","Yes",16525,1014,150,360,1,"Rural"
-"300",2529,"M","Yes","2","Graduate","No",6700,1750,230,300,1,"Semiurban"
-"301",2531,"M","Yes","1","Graduate","Yes",16667,2250,86,360,1,"Semiurban"
-"302",2534,"F","No","0","Not Graduate","No",4350,0,154,360,1,"Rural"
-"303",2536,"M","Yes","3+","Not Graduate","No",3095,0,113,360,1,"Rural"
-"304",2537,"M","Yes","0","Graduate","No",2083,3150,128,360,1,"Semiurban"
-"305",2541,"M","Yes","0","Graduate","No",10833,0,234,360,1,"Semiurban"
-"306",2543,"M","Yes","2","Graduate","No",8333,0,246,360,1,"Semiurban"
-"307",2544,"M","Yes","1","Not Graduate","No",1958,2436,131,360,1,"Rural"
-"308",2545,"M","No","2","Graduate","No",3547,0,80,360,0,"Rural"
-"309",2547,"M","Yes","1","Graduate","No",18333,0,500,360,1,"Urban"
-"310",2555,"M","Yes","2","Graduate","Yes",4583,2083,160,360,1,"Semiurban"
-"311",2556,"M","No","0","Graduate","No",2435,0,75,360,1,"Urban"
-"312",2571,"M","No","0","Not Graduate","No",3691,0,110,360,1,"Rural"
-"313",2582,"F","No","0","Not Graduate","Yes",17263,0,225,360,1,"Semiurban"
-"314",2585,"M","Yes","0","Graduate","No",3597,2157,119,360,0,"Rural"
-"315",2586,"F","Yes","1","Graduate","No",3326,913,105,84,1,"Semiurban"
-"316",2587,"M","Yes","0","Not Graduate","No",2600,1700,107,360,1,"Rural"
-"317",2600,"M","Yes","1","Graduate","Yes",2895,0,95,360,1,"Semiurban"
-"318",2602,"M","No","0","Graduate","No",6283,4416,209,360,0,"Rural"
-"319",2603,"F","No","0","Graduate","No",645,3683,113,480,1,"Rural"
-"320",2606,"F","No","0","Graduate","No",3159,0,100,360,1,"Semiurban"
-"321",2615,"M","Yes","2","Graduate","No",4865,5624,208,360,1,"Semiurban"
-"322",2619,"M","Yes","0","Not Graduate","No",3814,1483,124,300,1,"Semiurban"
-"323",2622,"M","Yes","2","Graduate","No",3510,4416,243,360,1,"Rural"
-"324",2626,"M","Yes","0","Graduate","Yes",2479,3013,188,360,1,"Urban"
-"325",2634,"F","No","1","Graduate","No",13262,0,40,360,1,"Urban"
-"326",2637,"M","No","0","Not Graduate","No",3598,1287,100,360,1,"Rural"
-"327",2640,"M","Yes","1","Graduate","No",6065,2004,250,360,1,"Semiurban"
-"328",2643,"M","Yes","2","Graduate","No",3283,2035,148,360,1,"Urban"
-"329",2648,"M","Yes","0","Graduate","No",2130,6666,70,180,1,"Semiurban"
-"330",2652,"M","No","0","Graduate","No",5815,3666,311,360,1,"Rural"
-"331",2659,"M","Yes","3+","Graduate","No",3466,3428,150,360,1,"Rural"
-"332",2670,"F","Yes","2","Graduate","No",2031,1632,113,480,1,"Semiurban"
-"333",2683,"M","No","0","Graduate","No",4683,1915,185,360,1,"Semiurban"
-"334",2684,"F","No","0","Not Graduate","No",3400,0,95,360,1,"Rural"
-"335",2689,"M","Yes","2","Not Graduate","No",2192,1742,45,360,1,"Semiurban"
-"336",2690,"M","No","0","Graduate","No",2500,0,55,360,1,"Semiurban"
-"337",2692,"M","Yes","3+","Graduate","Yes",5677,1424,100,360,1,"Rural"
-"338",2693,"M","Yes","2","Graduate","Yes",7948,7166,480,360,1,"Rural"
-"339",2699,"M","Yes","2","Graduate","Yes",17500,0,400,360,1,"Rural"
-"340",2705,"M","Yes","0","Graduate","No",3775,0,110,360,1,"Semiurban"
-"341",2706,"M","Yes","1","Not Graduate","No",5285,1430,161,360,0,"Semiurban"
-"342",2714,"M","No","1","Not Graduate","No",2679,1302,94,360,1,"Semiurban"
-"343",2716,"M","No","0","Not Graduate","No",6783,0,130,360,1,"Semiurban"
-"344",2720,"M","Yes","3+","Graduate","No",4281,0,100,360,1,"Urban"
-"345",2723,"M","No","2","Graduate","No",3588,0,110,360,0,"Rural"
-"346",2731,"F","No","0","Not Graduate","Yes",18165,0,125,360,1,"Urban"
-"347",2734,"M","Yes","0","Graduate","No",6133,3906,324,360,1,"Urban"
-"348",2738,"M","No","2","Graduate","No",3617,0,107,360,1,"Semiurban"
-"349",2739,"M","Yes","0","Not Graduate","No",2917,536,66,360,1,"Rural"
-"350",2740,"M","Yes","3+","Graduate","No",6417,0,157,180,1,"Rural"
-"351",2741,"F","Yes","1","Graduate","No",4608,2845,140,180,1,"Semiurban"
-"352",2743,"F","No","0","Graduate","No",2138,0,99,360,0,"Semiurban"
-"353",2755,"M","Yes","1","Not Graduate","No",2239,2524,128,360,1,"Urban"
-"354",2767,"M","Yes","0","Graduate","No",2768,1950,155,360,1,"Rural"
-"355",2768,"M","No","0","Not Graduate","No",3358,0,80,36,1,"Semiurban"
-"356",2772,"M","No","0","Graduate","No",2526,1783,145,360,1,"Rural"
-"357",2776,"F","No","0","Graduate","No",5000,0,103,360,0,"Semiurban"
-"358",2777,"M","Yes","0","Graduate","No",2785,2016,110,360,1,"Rural"
-"359",2785,"M","Yes","1","Graduate","No",3333,3250,158,360,1,"Urban"
-"360",2788,"M","Yes","0","Not Graduate","No",2454,2333,181,360,0,"Urban"
-"361",2789,"M","Yes","0","Graduate","No",3593,4266,132,180,0,"Rural"
-"362",2792,"M","Yes","1","Graduate","No",5468,1032,26,360,1,"Semiurban"
-"363",2795,"M","Yes","3+","Graduate","Yes",10139,0,260,360,1,"Semiurban"
-"364",2798,"M","Yes","0","Graduate","No",3887,2669,162,360,1,"Semiurban"
-"365",2804,"F","Yes","0","Graduate","No",4180,2306,182,360,1,"Semiurban"
-"366",2807,"M","Yes","2","Not Graduate","No",3675,242,108,360,1,"Semiurban"
-"367",2813,"F","Yes","1","Graduate","Yes",19484,0,600,360,1,"Semiurban"
-"368",2820,"M","Yes","0","Graduate","No",5923,2054,211,360,1,"Rural"
-"369",2821,"M","No","0","Not Graduate","Yes",5800,0,132,360,1,"Semiurban"
-"370",2832,"M","Yes","2","Graduate","No",8799,0,258,360,0,"Urban"
-"371",2836,"M","No","0","Graduate","No",3333,0,70,360,1,"Urban"
-"372",2837,"M","Yes","3+","Graduate","No",3400,2500,123,360,0,"Rural"
-"373",2840,"F","No","0","Graduate","No",2378,0,9,360,1,"Urban"
-"374",2841,"M","Yes","0","Graduate","No",3166,2064,104,360,0,"Urban"
-"375",2842,"M","Yes","1","Graduate","No",3417,1750,186,360,1,"Urban"
-"376",2855,"M","Yes","2","Graduate","No",16666,0,275,360,1,"Urban"
-"377",2862,"M","Yes","2","Not Graduate","No",6125,1625,187,480,1,"Semiurban"
-"378",2863,"M","Yes","3+","Graduate","No",6406,0,150,360,1,"Semiurban"
-"379",2868,"M","Yes","2","Graduate","No",3159,461,108,84,1,"Urban"
-"380",2874,"M","No","0","Graduate","No",3229,2739,110,360,1,"Urban"
-"381",2877,"M","Yes","1","Graduate","No",1782,2232,107,360,1,"Rural"
-"382",2892,"M","Yes","2","Graduate","No",6540,0,205,360,1,"Semiurban"
-"383",2893,"M","No","0","Graduate","No",1836,33837,90,360,1,"Urban"
-"384",2894,"F","Yes","0","Graduate","No",3166,0,36,360,1,"Semiurban"
-"385",2911,"M","Yes","1","Graduate","No",2787,1917,146,360,0,"Rural"
-"386",2912,"M","Yes","1","Graduate","No",4283,3000,172,84,1,"Rural"
-"387",2916,"M","Yes","0","Graduate","No",2297,1522,104,360,1,"Urban"
-"388",2917,"F","No","0","Not Graduate","No",2165,0,70,360,1,"Semiurban"
-"389",2926,"M","Yes","2","Graduate","Yes",2726,0,106,360,0,"Semiurban"
-"390",2928,"M","Yes","0","Graduate","No",3000,3416,56,180,1,"Semiurban"
-"391",2931,"M","Yes","2","Graduate","Yes",6000,0,205,240,1,"Semiurban"
-"392",2936,"M","Yes","0","Graduate","No",3859,3300,142,180,1,"Rural"
-"393",2938,"M","Yes","0","Graduate","Yes",16120,0,260,360,1,"Urban"
-"394",2940,"M","No","0","Not Graduate","No",3833,0,110,360,1,"Rural"
-"395",2941,"M","Yes","2","Not Graduate","Yes",6383,1000,187,360,1,"Rural"
-"396",2945,"M","Yes","0","Graduate","Yes",9963,0,180,360,1,"Rural"
-"397",2948,"M","Yes","2","Graduate","No",5780,0,192,360,1,"Urban"
-"398",2953,"M","Yes","3+","Graduate","No",5703,0,128,360,1,"Urban"
-"399",2958,"M","No","0","Graduate","No",3676,4301,172,360,1,"Rural"
-"400",2959,"F","Yes","1","Graduate","No",12000,0,496,360,1,"Semiurban"
-"401",2961,"M","Yes","1","Graduate","No",3400,2500,173,360,1,"Semiurban"
-"402",2964,"M","Yes","2","Not Graduate","No",3987,1411,157,360,1,"Rural"
-"403",2974,"M","Yes","0","Graduate","No",3232,1950,108,360,1,"Rural"
-"404",2978,"F","No","0","Graduate","No",2900,0,71,360,1,"Rural"
-"405",2979,"M","Yes","3+","Graduate","No",4106,0,40,180,1,"Rural"
-"406",2983,"M","Yes","1","Graduate","No",8072,240,253,360,1,"Urban"
-"407",2984,"M","Yes","2","Graduate","No",7583,0,187,360,1,"Urban"
-"408",2990,"F","No","0","Graduate","Yes",4583,0,133,360,0,"Semiurban"
+A,B,C,D,E,F,G,,,,,,
+41,1535,M,No,0,Graduate,No,3254,0,50,360,1,Urban
+42,1536,M,Yes,3+,Graduate,No,39999,0,600,180,0,Semiurban
+43,1543,M,Yes,1,Graduate,No,9538,0,187,360,1,Urban
+44,1552,M,Yes,0,Graduate,No,4583,5625,255,360,1,Semiurban
+45,1560,M,Yes,0,Not Graduate,No,1863,1041,98,360,1,Semiurban
+46,1562,M,Yes,0,Graduate,No,7933,0,275,360,1,Urban
+47,1565,M,Yes,1,Graduate,No,3089,1280,121,360,0,Semiurban
+48,1570,M,Yes,2,Graduate,No,4167,1447,158,360,1,Rural
+49,1572,M,Yes,0,Graduate,No,9323,0,75,180,1,Urban
+50,1574,M,Yes,0,Graduate,No,3707,3166,182,NA,1,Rural
+51,1577,F,Yes,0,Graduate,No,4583,0,112,360,1,Rural
+52,1578,M,Yes,0,Graduate,No,2439,3333,129,360,1,Rural
+53,1579,M,No,0,Graduate,No,2237,0,63,480,0,Semiurban
+54,1580,M,Yes,2,Graduate,No,8000,0,200,360,1,Semiurban
+55,1586,M,Yes,3+,Not Graduate,No,3522,0,81,180,1,Rural
+56,1594,M,Yes,0,Graduate,No,5708,5625,187,360,1,Semiurban
+57,1603,M,Yes,0,Not Graduate,Yes,4344,736,87,360,1,Semiurban
+58,1606,M,Yes,0,Graduate,No,3497,1964,116,360,1,Rural
+59,1608,M,Yes,2,Graduate,No,2045,1619,101,360,1,Rural
+60,1610,M,Yes,3+,Graduate,No,5516,11300,495,360,0,Semiurban
+61,1616,M,Yes,1,Graduate,No,3750,0,116,360,1,Semiurban
+62,1630,M,No,0,Not Graduate,No,2333,1451,102,480,0,Urban
+63,1633,M,Yes,1,Graduate,No,6400,7250,180,360,0,Urban
+64,1636,M,Yes,0,Graduate,No,4600,0,73,180,1,Semiurban
+65,1637,M,Yes,1,Graduate,No,33846,0,260,360,1,Semiurban
+66,1639,F,Yes,0,Graduate,No,3625,0,108,360,1,Semiurban
+67,1640,M,Yes,0,Graduate,Yes,39147,4750,120,360,1,Semiurban
+68,1641,M,Yes,1,Graduate,Yes,2178,0,66,300,0,Rural
+69,1647,M,Yes,0,Graduate,No,9328,0,188,180,1,Rural
+70,1653,M,No,0,Not Graduate,No,4885,0,48,360,1,Rural
+71,1656,M,No,0,Graduate,No,12000,0,164,360,1,Semiurban
+72,1657,M,Yes,0,Not Graduate,No,6033,0,160,360,1,Urban
+73,1658,M,No,0,Graduate,No,3858,0,76,360,1,Semiurban
+74,1664,M,No,0,Graduate,No,4191,0,120,360,1,Rural
+75,1665,M,Yes,1,Graduate,No,3125,2583,170,360,1,Semiurban
+76,1666,M,No,0,Graduate,No,8333,3750,187,360,1,Rural
+77,1669,F,No,0,Not Graduate,No,1907,2365,120,NA,1,Urban
+78,1673,M,No,0,Graduate,Yes,11000,0,83,360,1,Urban
+79,1674,M,Yes,1,Not Graduate,No,2600,2500,90,360,1,Semiurban
+80,1677,M,No,2,Graduate,No,4923,0,166,360,0,Semiurban
+81,1688,M,Yes,1,Not Graduate,No,3500,1083,135,360,1,Urban
+82,1691,M,Yes,2,Not Graduate,No,3917,0,124,360,1,Semiurban
+83,1692,F,No,0,Not Graduate,No,4408,0,120,360,1,Semiurban
+84,1693,F,No,0,Graduate,No,3244,0,80,360,1,Urban
+85,1698,M,No,0,Not Graduate,No,3975,2531,55,360,1,Rural
+86,1699,M,No,0,Graduate,No,2479,0,59,360,1,Urban
+87,1702,M,No,0,Graduate,No,3418,0,127,360,1,Semiurban
+88,1708,F,No,0,Graduate,No,10000,0,214,360,1,Semiurban
+89,1711,M,Yes,3+,Graduate,No,3430,1250,128,360,0,Semiurban
+90,1713,M,Yes,1,Graduate,Yes,7787,0,240,360,1,Urban
+91,1715,M,Yes,3+,Not Graduate,Yes,5703,0,130,360,1,Rural
+92,1716,M,Yes,0,Graduate,No,3173,3021,137,360,1,Urban
+93,1720,M,Yes,3+,Not Graduate,No,3850,983,100,360,1,Semiurban
+94,1722,M,Yes,0,Graduate,No,150,1800,135,360,1,Rural
+95,1726,M,Yes,0,Graduate,No,3727,1775,131,360,1,Semiurban
+96,1736,M,Yes,0,Graduate,No,2221,0,60,360,0,Urban
+97,1743,M,Yes,2,Graduate,No,4009,1717,116,360,1,Semiurban
+98,1744,M,No,0,Graduate,No,2971,2791,144,360,1,Semiurban
+99,1749,M,Yes,0,Graduate,No,7578,1010,175,NA,1,Semiurban
+100,1750,M,Yes,0,Graduate,No,6250,0,128,360,1,Semiurban
+101,1751,M,Yes,0,Graduate,No,3250,0,170,360,1,Rural
+102,1758,M,Yes,2,Graduate,No,6250,1695,210,360,1,Semiurban
+103,1761,M,No,0,Graduate,Yes,6400,0,200,360,1,Rural
+104,1765,M,Yes,1,Graduate,No,2491,2054,104,360,1,Semiurban
+105,1770,M,No,0,Not Graduate,No,3189,2598,120,NA,1,Rural
+106,1776,F,No,0,Graduate,No,8333,0,280,360,1,Semiurban
+107,1778,M,Yes,1,Graduate,No,3155,1779,140,360,1,Semiurban
+108,1784,M,Yes,1,Graduate,No,5500,1260,170,360,1,Rural
+109,1790,F,No,1,Graduate,No,3812,0,112,360,1,Rural
+110,1792,M,Yes,1,Graduate,No,3315,0,96,360,1,Semiurban
+111,1798,M,Yes,2,Graduate,No,5819,5000,120,360,1,Rural
+112,1800,M,Yes,1,Not Graduate,No,2510,1983,140,180,1,Urban
+113,1806,M,No,0,Graduate,No,2965,5701,155,60,1,Urban
+114,1807,M,Yes,2,Graduate,Yes,6250,1300,108,360,1,Rural
+115,1811,M,Yes,0,Not Graduate,No,3406,4417,123,360,1,Semiurban
+116,1813,M,No,0,Graduate,Yes,6050,4333,120,180,1,Urban
+117,1814,M,Yes,2,Graduate,No,9703,0,112,360,1,Urban
+118,1819,M,Yes,1,Not Graduate,No,6608,0,137,180,1,Urban
+119,1824,M,Yes,1,Graduate,No,2882,1843,123,480,1,Semiurban
+120,1825,M,Yes,0,Graduate,No,1809,1868,90,360,1,Urban
+121,1835,M,Yes,0,Not Graduate,No,1668,3890,201,360,0,Semiurban
+122,1836,F,No,2,Graduate,No,3427,0,138,360,1,Urban
+123,1841,M,No,0,Not Graduate,Yes,2583,2167,104,360,1,Rural
+124,1843,M,Yes,1,Not Graduate,No,2661,7101,279,180,1,Semiurban
+125,1844,M,No,0,Graduate,Yes,16250,0,192,360,0,Urban
+126,1846,F,No,3+,Graduate,No,3083,0,255,360,1,Rural
+127,1849,M,No,0,Not Graduate,No,6045,0,115,360,0,Rural
+128,1854,M,Yes,3+,Graduate,No,5250,0,94,360,1,Urban
+129,1859,M,Yes,0,Graduate,No,14683,2100,304,360,1,Rural
+130,1868,M,No,0,Graduate,No,2060,2209,134,360,1,Semiurban
+131,1870,F,No,1,Graduate,No,3481,0,155,36,1,Semiurban
+132,1871,F,No,0,Graduate,No,7200,0,120,360,1,Rural
+133,1872,M,No,0,Graduate,Yes,5166,0,128,360,1,Semiurban
+134,1875,M,No,0,Graduate,No,4095,3447,151,360,1,Rural
+135,1877,M,Yes,2,Graduate,No,4708,1387,150,360,1,Semiurban
+136,1882,M,Yes,3+,Graduate,No,4333,1811,160,360,0,Urban
+137,1884,F,No,1,Graduate,No,2876,1560,90,360,1,Urban
+138,1888,F,No,0,Graduate,No,3237,0,30,360,1,Urban
+139,1891,M,Yes,0,Graduate,No,11146,0,136,360,1,Urban
+140,1892,M,No,0,Graduate,No,2833,1857,126,360,1,Rural
+141,1894,M,Yes,0,Graduate,No,2620,2223,150,360,1,Semiurban
+142,1896,M,Yes,2,Graduate,No,3900,0,90,360,1,Semiurban
+143,1900,M,Yes,1,Graduate,No,2750,1842,115,360,1,Semiurban
+144,1903,M,Yes,0,Graduate,No,3993,3274,207,360,1,Semiurban
+145,1904,M,Yes,0,Graduate,No,3103,1300,80,360,1,Urban
+146,1907,M,Yes,0,Graduate,No,14583,0,436,360,1,Semiurban
+147,1910,M,No,1,Not Graduate,Yes,4053,2426,158,360,0,Urban
+148,1914,M,Yes,0,Graduate,No,3927,800,112,360,1,Semiurban
+149,1915,M,Yes,2,Graduate,No,2301,985.7999878,78,180,1,Urban
+150,1917,F,No,0,Graduate,No,1811,1666,54,360,1,Urban
+151,1924,M,No,0,Graduate,No,3158,3053,89,360,1,Rural
+152,1925,F,No,0,Graduate,Yes,2600,1717,99,300,1,Semiurban
+153,1926,M,Yes,0,Graduate,No,3704,2000,120,360,1,Rural
+154,1931,F,No,0,Graduate,No,4124,0,115,360,1,Semiurban
+155,1935,M,No,0,Graduate,No,9508,0,187,360,1,Rural
+156,1936,M,Yes,0,Graduate,No,3075,2416,139,360,1,Rural
+157,1938,M,Yes,2,Graduate,No,4400,0,127,360,0,Semiurban
+158,1940,M,Yes,2,Graduate,No,3153,1560,134,360,1,Urban
+159,1947,M,Yes,0,Graduate,No,2383,3334,172,360,1,Semiurban
+160,1953,M,Yes,1,Graduate,No,6875,0,200,360,1,Semiurban
+161,1954,F,Yes,1,Graduate,No,4666,0,135,360,1,Urban
+162,1955,F,No,0,Graduate,No,5000,2541,151,480,1,Rural
+163,1963,M,Yes,1,Graduate,No,2014,2925,113,360,1,Urban
+164,1964,M,Yes,0,Not Graduate,No,1800,2934,93,360,0,Urban
+165,1974,F,No,0,Graduate,No,5000,0,132,360,1,Rural
+166,1977,M,Yes,1,Graduate,No,1625,1803,96,360,1,Urban
+167,1978,M,No,0,Graduate,No,4000,2500,140,360,1,Rural
+168,1993,F,No,0,Graduate,No,3762,1666,135,360,1,Rural
+169,1994,F,No,0,Graduate,No,2400,1863,104,360,0,Urban
+170,1996,M,No,0,Graduate,No,20233,0,480,360,1,Rural
+171,2002,F,No,0,Graduate,No,2917,0,84,360,1,Semiurban
+172,2004,M,No,0,Not Graduate,No,2927,2405,111,360,1,Semiurban
+173,2006,F,No,0,Graduate,No,2507,0,56,360,1,Rural
+174,2031,M,Yes,1,Not Graduate,No,3399,1640,111,180,1,Urban
+175,2035,M,Yes,2,Graduate,No,3717,0,120,360,1,Semiurban
+176,2050,M,Yes,1,Graduate,Yes,10000,0,155,360,1,Rural
+177,2051,M,Yes,0,Graduate,No,2400,2167,115,360,1,Semiurban
+178,2053,M,Yes,3+,Graduate,No,4342,189,124,360,1,Semiurban
+179,2065,M,Yes,3+,Graduate,No,15000,0,300,360,1,Rural
+180,2067,M,Yes,1,Graduate,Yes,8666,4983,376,360,0,Rural
+181,2068,M,No,0,Graduate,No,4917,0,130,360,0,Rural
+182,2082,M,Yes,0,Graduate,Yes,5818,2160,184,360,1,Semiurban
+183,2086,F,Yes,0,Graduate,No,4333,2451,110,360,1,Urban
+184,2087,F,No,0,Graduate,No,2500,0,67,360,1,Urban
+185,2097,M,No,1,Graduate,No,4384,1793,117,360,1,Urban
+186,2098,M,No,0,Graduate,No,2935,0,98,360,1,Semiurban
+187,2112,M,Yes,2,Graduate,Yes,2500,4600,176,360,1,Rural
+188,2114,F,No,0,Graduate,No,4160,0,71,360,1,Semiurban
+189,2115,M,Yes,3+,Not Graduate,No,2647,1587,173,360,1,Rural
+190,2116,F,No,0,Graduate,No,2378,0,46,360,1,Rural
+191,2119,M,Yes,1,Not Graduate,No,4554,1229,158,360,1,Urban
+192,2126,M,Yes,3+,Not Graduate,No,3173,0,74,360,1,Semiurban
+193,2129,M,Yes,0,Graduate,No,2499,2458,160,360,1,Semiurban
+194,2131,M,Yes,2,Not Graduate,No,3083,2168,126,360,1,Urban
+195,2138,M,Yes,0,Graduate,No,2625,6250,187,360,1,Rural
+196,2139,M,Yes,0,Graduate,No,9083,0,228,360,1,Semiurban
+197,2140,M,No,0,Graduate,No,8750,4167,308,360,1,Rural
+198,2141,M,Yes,3+,Graduate,No,2666,2083,95,360,1,Rural
+199,2142,F,Yes,0,Graduate,Yes,5500,0,105,360,0,Rural
+200,2143,F,Yes,0,Graduate,No,2423,505,130,360,1,Semiurban
+201,2149,M,Yes,2,Graduate,No,8333,3167,165,360,1,Rural
+202,2151,M,Yes,1,Graduate,No,3875,0,67,360,1,Urban
+203,2158,M,Yes,0,Not Graduate,No,3000,1666,100,480,0,Urban
+204,2160,M,Yes,3+,Graduate,No,5167,3167,200,360,1,Semiurban
+205,2161,F,No,1,Graduate,No,4723,0,81,360,1,Semiurban
+206,2170,M,Yes,2,Graduate,No,5000,3667,236,360,1,Semiurban
+207,2175,M,Yes,0,Graduate,No,4750,2333,130,360,1,Urban
+208,2180,M,No,0,Graduate,Yes,6822,0,141,360,1,Rural
+209,2181,M,No,0,Not Graduate,No,6216,0,133,360,1,Rural
+210,2187,M,No,0,Graduate,No,2500,0,96,480,1,Semiurban
+211,2188,M,No,0,Graduate,No,5124,0,124,NA,0,Rural
+212,2190,M,Yes,1,Graduate,No,6325,0,175,360,1,Semiurban
+213,2191,M,Yes,0,Graduate,No,19730,5266,570,360,1,Rural
+214,2194,F,No,0,Graduate,Yes,15759,0,55,360,1,Semiurban
+215,2197,M,Yes,2,Graduate,No,5185,0,155,360,1,Semiurban
+216,2201,M,Yes,2,Graduate,Yes,9323,7873,380,300,1,Rural
+217,2205,M,No,1,Graduate,No,3062,1987,111,180,0,Urban
+218,2211,M,Yes,0,Graduate,No,4817,923,120,180,1,Urban
+219,2219,M,Yes,3+,Graduate,No,8750,4996,130,360,1,Rural
+220,2224,M,No,0,Graduate,No,3069,0,71,480,1,Urban
+221,2225,M,Yes,2,Graduate,No,5391,0,130,360,1,Urban
+222,2229,M,No,0,Graduate,No,5941,4232,296,360,1,Semiurban
+223,2231,F,No,0,Graduate,No,6000,0,156,360,1,Urban
+224,2234,M,No,0,Graduate,Yes,7167,0,128,360,1,Urban
+225,2236,M,Yes,2,Graduate,No,4566,0,100,360,1,Urban
+226,2239,M,No,0,Not Graduate,No,2346,1600,132,360,1,Semiurban
+227,2244,M,Yes,0,Graduate,No,2333,2417,136,360,1,Urban
+228,2250,M,Yes,0,Graduate,No,5488,0,125,360,1,Rural
+229,2255,M,No,3+,Graduate,No,9167,0,185,360,1,Rural
+230,2262,M,Yes,3+,Graduate,No,9504,0,275,360,1,Rural
+231,2265,M,Yes,2,Not Graduate,No,1993,1625,113,180,1,Semiurban
+232,2266,M,Yes,2,Graduate,No,3100,1400,113,360,1,Urban
+233,2277,F,No,0,Graduate,No,3180,0,71,360,0,Urban
+234,2281,M,Yes,0,Graduate,No,3033,1459,95,360,1,Urban
+235,2284,M,No,0,Not Graduate,No,3902,1666,109,360,1,Rural
+236,2287,F,No,0,Graduate,No,1500,1800,103,360,0,Semiurban
+237,2288,M,Yes,2,Not Graduate,No,2889,0,45,180,0,Urban
+238,2296,M,No,0,Not Graduate,No,2755,0,65,300,1,Rural
+239,2297,M,No,0,Graduate,No,2500,20000,103,360,1,Semiurban
+240,2300,F,No,0,Not Graduate,No,1963,0,53,360,1,Semiurban
+241,2301,F,No,0,Graduate,Yes,7441,0,194,360,1,Rural
+242,2305,F,No,0,Graduate,No,4547,0,115,360,1,Semiurban
+243,2308,M,Yes,0,Not Graduate,No,2167,2400,115,360,1,Urban
+244,2314,F,No,0,Not Graduate,No,2213,0,66,360,1,Rural
+245,2315,M,Yes,1,Graduate,No,8300,0,152,300,0,Semiurban
+246,2317,M,Yes,3+,Graduate,No,81000,0,360,360,0,Rural
+247,2318,F,No,1,Not Graduate,Yes,3867,0,62,360,1,Semiurban
+248,2328,M,Yes,0,Not Graduate,No,6096,0,218,360,0,Rural
+249,2332,M,Yes,0,Not Graduate,No,2253,2033,110,360,1,Rural
+250,2335,F,Yes,0,Not Graduate,No,2149,3237,178,360,0,Semiurban
+251,2337,F,No,0,Graduate,No,2995,0,60,360,1,Urban
+252,2341,F,No,1,Graduate,No,2600,0,160,360,1,Urban
+253,2342,M,Yes,2,Graduate,Yes,1600,20000,239,360,1,Urban
+254,2345,M,Yes,0,Graduate,No,1025,2773,112,360,1,Rural
+255,2347,M,Yes,0,Graduate,No,3246,1417,138,360,1,Semiurban
+256,2348,M,Yes,0,Graduate,No,5829,0,138,360,1,Rural
+257,2357,F,No,0,Not Graduate,No,2720,0,80,NA,0,Urban
+258,2361,M,Yes,0,Graduate,No,1820,1719,100,360,1,Urban
+259,2362,M,Yes,1,Graduate,No,7250,1667,110,NA,0,Urban
+260,2364,M,Yes,0,Graduate,No,14880,0,96,360,1,Semiurban
+261,2366,M,Yes,0,Graduate,No,2666,4300,121,360,1,Rural
+262,2367,F,No,1,Not Graduate,No,4606,0,81,360,1,Rural
+263,2368,M,Yes,2,Graduate,No,5935,0,133,360,1,Semiurban
+264,2369,M,Yes,0,Graduate,No,2920,16.12000084,87,360,1,Rural
+265,2370,M,No,0,Not Graduate,No,2717,0,60,180,1,Urban
+266,2377,F,No,1,Graduate,Yes,8624,0,150,360,1,Semiurban
+267,2379,M,No,0,Graduate,No,6500,0,105,360,0,Rural
+268,2387,M,Yes,0,Graduate,No,2425,2340,143,360,1,Semiurban
+269,2390,M,No,0,Graduate,No,3750,0,100,360,1,Urban
+270,2398,M,No,0,Graduate,No,1926,1851,50,360,1,Semiurban
+271,2403,M,No,0,Graduate,Yes,10416,0,187,360,0,Urban
+272,2407,F,Yes,0,Not Graduate,Yes,7142,0,138,360,1,Rural
+273,2408,M,No,0,Graduate,No,3660,5064,187,360,1,Semiurban
+274,2409,M,Yes,0,Graduate,No,7901,1833,180,360,1,Rural
+275,2418,M,No,3+,Not Graduate,No,4707,1993,148,360,1,Semiurban
+276,2422,M,No,1,Graduate,No,37719,0,152,360,1,Semiurban
+277,2429,M,Yes,1,Graduate,Yes,3466,1210,130,360,1,Rural
+278,2434,M,Yes,2,Not Graduate,No,4652,0,110,360,1,Rural
+279,2443,M,Yes,2,Graduate,No,3340,1710,150,360,0,Rural
+280,2446,M,Yes,2,Not Graduate,No,2309,1255,125,360,0,Rural
+281,2448,M,Yes,0,Graduate,No,3948,1733,149,360,0,Rural
+282,2449,M,Yes,0,Graduate,No,2483,2466,90,180,0,Rural
+283,2453,M,No,0,Graduate,Yes,7085,0,84,360,1,Semiurban
+284,2455,M,Yes,2,Graduate,No,3859,0,96,360,1,Semiurban
+285,2459,M,Yes,0,Graduate,No,4301,0,118,360,1,Urban
+286,2467,M,Yes,0,Graduate,No,3708,2569,173,360,1,Urban
+287,2472,M,No,2,Graduate,No,4354,0,136,360,1,Rural
+288,2473,M,Yes,0,Graduate,No,8334,0,160,360,1,Semiurban
+289,2484,M,Yes,3+,Graduate,No,7740,0,128,180,1,Urban
+290,2487,M,Yes,0,Graduate,No,3015,2188,153,360,1,Rural
+291,2493,M,No,0,Graduate,No,4166,0,98,360,0,Semiurban
+292,2494,M,No,0,Graduate,No,6000,0,140,360,1,Rural
+293,2500,M,Yes,3+,Not Graduate,No,2947,1664,70,180,0,Urban
+294,2505,M,Yes,0,Graduate,No,4333,2451,110,360,1,Urban
+295,2515,M,Yes,1,Graduate,Yes,3450,2079,162,360,1,Semiurban
+296,2517,M,Yes,1,Not Graduate,No,2653,1500,113,180,0,Rural
+297,2519,M,Yes,3+,Graduate,No,4691,0,100,360,1,Semiurban
+298,2524,M,No,2,Graduate,No,5532,4648,162,360,1,Rural
+299,2527,M,Yes,2,Graduate,Yes,16525,1014,150,360,1,Rural
+300,2529,M,Yes,2,Graduate,No,6700,1750,230,300,1,Semiurban
+301,2531,M,Yes,1,Graduate,Yes,16667,2250,86,360,1,Semiurban
+302,2534,F,No,0,Not Graduate,No,4350,0,154,360,1,Rural
+303,2536,M,Yes,3+,Not Graduate,No,3095,0,113,360,1,Rural
+304,2537,M,Yes,0,Graduate,No,2083,3150,128,360,1,Semiurban
+305,2541,M,Yes,0,Graduate,No,10833,0,234,360,1,Semiurban
+306,2543,M,Yes,2,Graduate,No,8333,0,246,360,1,Semiurban
+307,2544,M,Yes,1,Not Graduate,No,1958,2436,131,360,1,Rural
+308,2545,M,No,2,Graduate,No,3547,0,80,360,0,Rural
+309,2547,M,Yes,1,Graduate,No,18333,0,500,360,1,Urban
+310,2555,M,Yes,2,Graduate,Yes,4583,2083,160,360,1,Semiurban
+311,2556,M,No,0,Graduate,No,2435,0,75,360,1,Urban
+312,2571,M,No,0,Not Graduate,No,3691,0,110,360,1,Rural
+313,2582,F,No,0,Not Graduate,Yes,17263,0,225,360,1,Semiurban
+314,2585,M,Yes,0,Graduate,No,3597,2157,119,360,0,Rural
+315,2586,F,Yes,1,Graduate,No,3326,913,105,84,1,Semiurban
+316,2587,M,Yes,0,Not Graduate,No,2600,1700,107,360,1,Rural
+317,2600,M,Yes,1,Graduate,Yes,2895,0,95,360,1,Semiurban
+318,2602,M,No,0,Graduate,No,6283,4416,209,360,0,Rural
+319,2603,F,No,0,Graduate,No,645,3683,113,480,1,Rural
+320,2606,F,No,0,Graduate,No,3159,0,100,360,1,Semiurban
+321,2615,M,Yes,2,Graduate,No,4865,5624,208,360,1,Semiurban
+322,2619,M,Yes,0,Not Graduate,No,3814,1483,124,300,1,Semiurban
+323,2622,M,Yes,2,Graduate,No,3510,4416,243,360,1,Rural
+324,2626,M,Yes,0,Graduate,Yes,2479,3013,188,360,1,Urban
+325,2634,F,No,1,Graduate,No,13262,0,40,360,1,Urban
+326,2637,M,No,0,Not Graduate,No,3598,1287,100,360,1,Rural
+327,2640,M,Yes,1,Graduate,No,6065,2004,250,360,1,Semiurban
+328,2643,M,Yes,2,Graduate,No,3283,2035,148,360,1,Urban
+329,2648,M,Yes,0,Graduate,No,2130,6666,70,180,1,Semiurban
+330,2652,M,No,0,Graduate,No,5815,3666,311,360,1,Rural
+331,2659,M,Yes,3+,Graduate,No,3466,3428,150,360,1,Rural
+332,2670,F,Yes,2,Graduate,No,2031,1632,113,480,1,Semiurban
+333,2683,M,No,0,Graduate,No,4683,1915,185,360,1,Semiurban
+334,2684,F,No,0,Not Graduate,No,3400,0,95,360,1,Rural
+335,2689,M,Yes,2,Not Graduate,No,2192,1742,45,360,1,Semiurban
+336,2690,M,No,0,Graduate,No,2500,0,55,360,1,Semiurban
+337,2692,M,Yes,3+,Graduate,Yes,5677,1424,100,360,1,Rural
+338,2693,M,Yes,2,Graduate,Yes,7948,7166,480,360,1,Rural
+339,2699,M,Yes,2,Graduate,Yes,17500,0,400,360,1,Rural
+340,2705,M,Yes,0,Graduate,No,3775,0,110,360,1,Semiurban
+341,2706,M,Yes,1,Not Graduate,No,5285,1430,161,360,0,Semiurban
+342,2714,M,No,1,Not Graduate,No,2679,1302,94,360,1,Semiurban
+343,2716,M,No,0,Not Graduate,No,6783,0,130,360,1,Semiurban
+344,2720,M,Yes,3+,Graduate,No,4281,0,100,360,1,Urban
+345,2723,M,No,2,Graduate,No,3588,0,110,360,0,Rural
+346,2731,F,No,0,Not Graduate,Yes,18165,0,125,360,1,Urban
+347,2734,M,Yes,0,Graduate,No,6133,3906,324,360,1,Urban
+348,2738,M,No,2,Graduate,No,3617,0,107,360,1,Semiurban
+349,2739,M,Yes,0,Not Graduate,No,2917,536,66,360,1,Rural
+350,2740,M,Yes,3+,Graduate,No,6417,0,157,180,1,Rural
+351,2741,F,Yes,1,Graduate,No,4608,2845,140,180,1,Semiurban
+352,2743,F,No,0,Graduate,No,2138,0,99,360,0,Semiurban
+353,2755,M,Yes,1,Not Graduate,No,2239,2524,128,360,1,Urban
+354,2767,M,Yes,0,Graduate,No,2768,1950,155,360,1,Rural
+355,2768,M,No,0,Not Graduate,No,3358,0,80,36,1,Semiurban
+356,2772,M,No,0,Graduate,No,2526,1783,145,360,1,Rural
+357,2776,F,No,0,Graduate,No,5000,0,103,360,0,Semiurban
+358,2777,M,Yes,0,Graduate,No,2785,2016,110,360,1,Rural
+359,2785,M,Yes,1,Graduate,No,3333,3250,158,360,1,Urban
+360,2788,M,Yes,0,Not Graduate,No,2454,2333,181,360,0,Urban
+361,2789,M,Yes,0,Graduate,No,3593,4266,132,180,0,Rural
+362,2792,M,Yes,1,Graduate,No,5468,1032,26,360,1,Semiurban
+363,2795,M,Yes,3+,Graduate,Yes,10139,0,260,360,1,Semiurban
+364,2798,M,Yes,0,Graduate,No,3887,2669,162,360,1,Semiurban
+365,2804,F,Yes,0,Graduate,No,4180,2306,182,360,1,Semiurban
+366,2807,M,Yes,2,Not Graduate,No,3675,242,108,360,1,Semiurban
+367,2813,F,Yes,1,Graduate,Yes,19484,0,600,360,1,Semiurban
+368,2820,M,Yes,0,Graduate,No,5923,2054,211,360,1,Rural
+369,2821,M,No,0,Not Graduate,Yes,5800,0,132,360,1,Semiurban
+370,2832,M,Yes,2,Graduate,No,8799,0,258,360,0,Urban
+371,2836,M,No,0,Graduate,No,3333,0,70,360,1,Urban
+372,2837,M,Yes,3+,Graduate,No,3400,2500,123,360,0,Rural
+373,2840,F,No,0,Graduate,No,2378,0,9,360,1,Urban
+374,2841,M,Yes,0,Graduate,No,3166,2064,104,360,0,Urban
+375,2842,M,Yes,1,Graduate,No,3417,1750,186,360,1,Urban
+376,2855,M,Yes,2,Graduate,No,16666,0,275,360,1,Urban
+377,2862,M,Yes,2,Not Graduate,No,6125,1625,187,480,1,Semiurban
+378,2863,M,Yes,3+,Graduate,No,6406,0,150,360,1,Semiurban
+379,2868,M,Yes,2,Graduate,No,3159,461,108,84,1,Urban
+380,2874,M,No,0,Graduate,No,3229,2739,110,360,1,Urban
+381,2877,M,Yes,1,Graduate,No,1782,2232,107,360,1,Rural
+382,2892,M,Yes,2,Graduate,No,6540,0,205,360,1,Semiurban
+383,2893,M,No,0,Graduate,No,1836,33837,90,360,1,Urban
+384,2894,F,Yes,0,Graduate,No,3166,0,36,360,1,Semiurban
+385,2911,M,Yes,1,Graduate,No,2787,1917,146,360,0,Rural
+386,2912,M,Yes,1,Graduate,No,4283,3000,172,84,1,Rural
+387,2916,M,Yes,0,Graduate,No,2297,1522,104,360,1,Urban
+388,2917,F,No,0,Not Graduate,No,2165,0,70,360,1,Semiurban
+389,2926,M,Yes,2,Graduate,Yes,2726,0,106,360,0,Semiurban
+390,2928,M,Yes,0,Graduate,No,3000,3416,56,180,1,Semiurban
+391,2931,M,Yes,2,Graduate,Yes,6000,0,205,240,1,Semiurban
+392,2936,M,Yes,0,Graduate,No,3859,3300,142,180,1,Rural
+393,2938,M,Yes,0,Graduate,Yes,16120,0,260,360,1,Urban
+394,2940,M,No,0,Not Graduate,No,3833,0,110,360,1,Rural
+395,2941,M,Yes,2,Not Graduate,Yes,6383,1000,187,360,1,Rural
+396,2945,M,Yes,0,Graduate,Yes,9963,0,180,360,1,Rural
+397,2948,M,Yes,2,Graduate,No,5780,0,192,360,1,Urban
+398,2953,M,Yes,3+,Graduate,No,5703,0,128,360,1,Urban
+399,2958,M,No,0,Graduate,No,3676,4301,172,360,1,Rural
+400,2959,F,Yes,1,Graduate,No,12000,0,496,360,1,Semiurban
+401,2961,M,Yes,1,Graduate,No,3400,2500,173,360,1,Semiurban
+402,2964,M,Yes,2,Not Graduate,No,3987,1411,157,360,1,Rural
+403,2974,M,Yes,0,Graduate,No,3232,1950,108,360,1,Rural
+404,2978,F,No,0,Graduate,No,2900,0,71,360,1,Rural
+405,2979,M,Yes,3+,Graduate,No,4106,0,40,180,1,Rural
+406,2983,M,Yes,1,Graduate,No,8072,240,253,360,1,Urban
+407,2984,M,Yes,2,Graduate,No,7583,0,187,360,1,Urban
+408,2990,F,No,0,Graduate,Yes,4583,0,133,360,0,Semiurban
